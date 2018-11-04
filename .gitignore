@@ -4,7 +4,9 @@ docs/build/
 *.log
 stats.html
 screenshots
+.cache
 
 packages/gestalt/dist/*
 # the flow export file as it's maintained by hand
 !packages/gestalt/dist/gestalt.js.flow
+docs-2/public
